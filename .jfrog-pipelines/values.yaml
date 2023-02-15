@@ -1,0 +1,12 @@
+templateRepository:
+  gitProvider: Github
+  path: tomjfrog
+  branch: main
+  templateFolder: templates
+
+publishTemplate:
+  namespace: tomj
+  name: hello-pipelines-template
+  version: 0.0.1
+  pipelineName: hello-pipelines-template
+  artifactoryIntegration: SaaS_tomjfrog
