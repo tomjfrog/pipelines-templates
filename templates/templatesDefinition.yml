@@ -1,5 +1,5 @@
 template: true   # required for local templates
-valuesFilePath: ./pipelines.yml
+valuesFilePath: .jfrog-pipelines/values.yml
 
 resources:
   - name: hello-pipelines-repo
