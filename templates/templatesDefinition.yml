@@ -1,5 +1,5 @@
 template: true   # required for local templates
-valuesFilePath: ./pipeline-config.yml
+valuesFilePath: ./pipelines.yml
 
 resources:
   - name: hello-pipelines-repo
