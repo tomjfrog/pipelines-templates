@@ -8,5 +8,5 @@ publishTemplate:
   namespace: tomj
   name: hello-pipelines-template
   version: 0.0.1
-  pipelineName: hello-pipelines-template
+  pipelineName: PublishTemplate
   artifactoryIntegration: SaaS_tomjfrog
